@@ -1,0 +1,5 @@
+C:\Users\inalag\source\repos\Countries\obj\Debug\net5.0\Countries.csproj.AssemblyReference.cache
+C:\Users\inalag\source\repos\Countries\obj\Debug\net5.0\Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inalag\source\repos\Countries\obj\Debug\net5.0\Countries.AssemblyInfoInputs.cache
+C:\Users\inalag\source\repos\Countries\obj\Debug\net5.0\Countries.AssemblyInfo.cs
+C:\Users\inalag\source\repos\Countries\obj\Debug\net5.0\Countries.csproj.CoreCompileInputs.cache
